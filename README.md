@@ -1,2 +1,2 @@
 # ML
-Everything machine learning related
+Classwork only
