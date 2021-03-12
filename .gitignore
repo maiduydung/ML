@@ -2,3 +2,10 @@
 debug.log
 .vscode/settings.json
 Linear Regression/heart_disease_classifier/saved_model.pb
+datasets/water_table/water_table_train_values.csv
+datasets/water_table/water_table_train_label.csv
+datasets/water_table/water_table_test.csv
+Linear Regression/.ipynb_checkpoints/MecariPriceSuggestion-checkpoint.ipynb
+datasets/mecari_price_suggestion/train.tsv
+datasets/mecari_price_suggestion/test_stg2.tsv.zip
+datasets/mecari_price_suggestion/test.tsv
