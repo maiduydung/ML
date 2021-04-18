@@ -1,0 +1,55 @@
+# Pref: 都道府県名
+# Pop(100k): 人口(10万人)
+# Infected: 感染者数
+# Discharged: 退院者数
+# Data source
+# https://www.mhlw.go.jp/content/10906000/000618979.pdf
+# https://www.mhlw.go.jp/content/10906000/000619759.pdf
+Pref,Pop(100k),Infected,Discharged,PCR,Area
+Hokkaido,53.2,190,130,2803,Hokkaido
+Aomori,12.8,11,0,249,Tohoku
+Iwate,12.6,0,0,69,Tohoku
+Miyagi,23.2,13,1,479,Tohoku
+Akita,10.0,9,2,358,Tohoku
+Yamagata,11.0,1,0,468,Tohoku
+Fukushima,18.8,9,1,447,Tohoku
+Ibaraki,28.9,54,1,1735,Kanto
+Tochigi,19.6,14,3,824,Kanto
+Gunma,19.6,24,0,736,Kanto
+Saitama,73.1,131,23,1947,Kanto
+Chiba,62.5,192,31,4042,Kanto
+Tokyo,137.2,779,48,4923,Kanto
+Kanagawa,91.6,181,32,5044,Kanto
+Niigata,22.7,32,11,1441,Chubu
+Toyama,10.6,8,0,168,Chubu
+Ishikawa,11.5,24,5,406,Chubu
+Fukui,7.8,40,0,239,Chubu
+Yamanashi,8.2,9,2,871,Kanto
+Nagano,20.8,10,4,814,Chubu
+Gifu,20.1,39,2,656,Chubu
+Shizuoka,36.8,8,3,1399,Chubu
+Aichi,75.2,198,48,3318,Chubu
+Mie,18.0,12,4,665,Kinki
+Shiga,14.1,14,3,346,Kinki
+Kyoto,26.0,91,18,1153,Kinki
+Osaka,88.2,347,73,5952,Kinki
+Hyogo,55.0,172,51,3023,Kinki
+Nara,13.5,21,8,597,Kinki
+Wakayama,9.4,21,15,1994,Kinki
+Tottori,5.7,0,0,255,Chugoku
+Shimane,6.8,0,0,222,Chugoku
+Okayama,19.1,9,0,537,Chugoku
+Hiroshima,28.3,8,1,1205,Chugoku
+Yamaguchi,13.8,7,3,471,Chugoku
+Tokushima,7.4,3,1,153,Shikoku
+Kagawa,9.7,2,0,349,Shikoku
+Ehime,13.6,11,3,452,Shikoku
+Kochi,7.1,21,12,589,Shikoku
+Fukuoka,51.1,66,5,1887,Kyushu
+Saga,8.2,5,0,287,Kyushu
+Nagasaki,13.5,7,2,677,Kyushu
+Kumamoto,17.6,15,3,1826,Kyushu
+Oita,11.5,31,6,1214,Kyushu
+Miyazaki,10.9,4,2,388,Kyushu
+Kagoshima,16.3,3,0,410,Kyushu
+Okinawa,14.4,9,2,754,Kyushu
