@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<head>    
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+    
+        <script>
+            L_NO_TOUCH = false;
+            L_DISABLE_3D = false;
+        </script>
+    
+    <script src="https://cdn.jsdelivr.net/npm/leaflet@1.5.1/dist/leaflet.js"></script>
+    <script src="https://code.jquery.com/jquery-1.12.4.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.js"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet@1.5.1/dist/leaflet.css"/>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap-theme.min.css"/>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css"/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.css"/>
+    <link rel="stylesheet" href="https://rawcdn.githack.com/python-visualization/folium/master/folium/templates/leaflet.awesome.rotate.css"/>
+    <style>html, body {width: 100%;height: 100%;margin: 0;padding: 0;}</style>
+    <style>#map {position:absolute;top:0;bottom:0;right:0;left:0;}</style>
+    
+            <meta name="viewport" content="width=device-width,
+                initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+            <style>
+                #map_cb79e57c7e81469582ac91202984f0b2 {
+                    position: relative;
+                    width: 100.0%;
+                    height: 100.0%;
+                    left: 0.0%;
+                    top: 0.0%;
+                }
+            </style>
+        
+</head>
+<body>    
+    
+            <div class="folium-map" id="map_cb79e57c7e81469582ac91202984f0b2" ></div>
+        
+</body>
+<script>    
+    
+            var map_cb79e57c7e81469582ac91202984f0b2 = L.map(
+                "map_cb79e57c7e81469582ac91202984f0b2",
+                {
+                    center: [35.780545, 139.715396],
+                    crs: L.CRS.EPSG3857,
+                    zoom: 15,
+                    zoomControl: true,
+                    preferCanvas: false,
+                }
+            );
+
+            
+
+        
+    
+            var tile_layer_bb1c2a0ec4ab46aabd572cde15ed26ae = L.tileLayer(
+                "https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png",
+                {"attribution": "Data by \u0026copy; \u003ca href=\"http://openstreetmap.org\"\u003eOpenStreetMap\u003c/a\u003e, under \u003ca href=\"http://www.openstreetmap.org/copyright\"\u003eODbL\u003c/a\u003e.", "detectRetina": false, "maxNativeZoom": 18, "maxZoom": 18, "minZoom": 0, "noWrap": false, "opacity": 1, "subdomains": "abc", "tms": false}
+            ).addTo(map_cb79e57c7e81469582ac91202984f0b2);
+        
+    
+            var marker_1c9bc04b6c184b26b2b66f7f6b1bd989 = L.marker(
+                [35.780545, 139.715396],
+                {}
+            ).addTo(map_cb79e57c7e81469582ac91202984f0b2);
+        
+    
+        var popup_54b654d7433f472086a5f64544782137 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_b06d3075f29942979fab29f9b4617a72 = $(`<div id="html_b06d3075f29942979fab29f9b4617a72" style="width: 100.0%; height: 100.0%;">INIAD</div>`)[0];
+            popup_54b654d7433f472086a5f64544782137.setContent(html_b06d3075f29942979fab29f9b4617a72);
+        
+
+        marker_1c9bc04b6c184b26b2b66f7f6b1bd989.bindPopup(popup_54b654d7433f472086a5f64544782137)
+        ;
+
+        
+    
+    
+            var circle_marker_945b0b2ad347463ab41346147fffd036 = L.circleMarker(
+                [35.780545, 139.715396],
+                {"bubblingMouseEvents": true, "color": "#3388ff", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "#3388ff", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 50, "stroke": true, "weight": 3}
+            ).addTo(map_cb79e57c7e81469582ac91202984f0b2);
+        
+    
+        var popup_93a74569512948b9914dea42754da137 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_e6c676db85e64e8888bed0c6ad08af42 = $(`<div id="html_e6c676db85e64e8888bed0c6ad08af42" style="width: 100.0%; height: 100.0%;">INIAD</div>`)[0];
+            popup_93a74569512948b9914dea42754da137.setContent(html_e6c676db85e64e8888bed0c6ad08af42);
+        
+
+        circle_marker_945b0b2ad347463ab41346147fffd036.bindPopup(popup_93a74569512948b9914dea42754da137)
+        ;
+
+        
+    
+</script>
