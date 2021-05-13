@@ -1,0 +1,99 @@
+dokujo-tsushin/LICENSE.txt
+==========
+このディレクトリにあるすべての記事ファイルには、クリエイティブ・コモンズライセンス
+「表示 - 改変禁止」（http://creativecommons.org/licenses/by-nd/2.1/jp/）が適用されます。
+原著作者のクレジットを表示し、ニュース記事の改変をしないことを条件に、記事全文を
+自由に転載・引用が可能です。
+
+このディレクトリの記事ファイル内容の提供元：
+独女通信
+http://news.livedoor.com/category/vender/90/
+
+it-life-hack/LICENSE.txt
+==========
+このディレクトリにあるすべての記事ファイルには、クリエイティブ・コモンズライセンス
+「表示 - 改変禁止」（http://creativecommons.org/licenses/by-nd/2.1/jp/）が適用されます。
+原著作者のクレジットを表示し、ニュース記事の改変をしないことを条件に、記事全文を
+自由に転載・引用が可能です。
+
+このディレクトリの記事ファイル内容の提供元：
+ITライフハック
+http://news.livedoor.com/category/vender/223/
+
+kaden-channel/LICENSE.txt
+==========
+このディレクトリにあるすべての記事ファイルには、クリエイティブ・コモンズライセンス
+「表示 - 改変禁止」（http://creativecommons.org/licenses/by-nd/2.1/jp/）が適用されます。
+原著作者のクレジットを表示し、ニュース記事の改変をしないことを条件に、記事全文を
+自由に転載・引用が可能です。
+
+このディレクトリの記事ファイル内容の提供元：
+家電チャンネル
+http://news.livedoor.com/category/vender/kadench/
+
+livedoor-homme/LICENSE.txt
+==========
+このディレクトリにあるすべての記事ファイルには、クリエイティブ・コモンズライセンス
+「表示 - 改変禁止」（http://creativecommons.org/licenses/by-nd/2.1/jp/）が適用されます。
+原著作者のクレジットを表示し、ニュース記事の改変をしないことを条件に、記事全文を
+自由に転載・引用が可能です。
+
+このディレクトリの記事ファイル内容の提供元：
+livedoor HOMME
+http://news.livedoor.com/category/vender/homme/
+
+movie-enter/LICENSE.txt
+==========
+このディレクトリにあるすべての記事ファイルには、クリエイティブ・コモンズライセンス
+「表示 - 改変禁止」（http://creativecommons.org/licenses/by-nd/2.1/jp/）が適用されます。
+原著作者のクレジットを表示し、ニュース記事の改変をしないことを条件に、記事全文を
+自由に転載・引用が可能です。
+
+このディレクトリの記事ファイル内容の提供元：
+MOVIE ENTER
+http://news.livedoor.com/category/vender/movie_enter/
+
+peachy/LICENSE.txt
+==========
+このディレクトリにあるすべての記事ファイルには、クリエイティブ・コモンズライセンス
+「表示 - 改変禁止」（http://creativecommons.org/licenses/by-nd/2.1/jp/）が適用されます。
+原著作者のクレジットを表示し、ニュース記事の改変をしないことを条件に、記事全文を
+自由に転載・引用が可能です。
+
+このディレクトリの記事ファイル内容の提供元：
+Peachy
+http://news.livedoor.com/category/vender/ldgirls/
+
+smax/LICENSE.txt
+==========
+このディレクトリにあるすべての記事ファイルには、クリエイティブ・コモンズライセンス
+「表示 - 改変禁止」（http://creativecommons.org/licenses/by-nd/2.1/jp/）が適用されます。
+原著作者のクレジットを表示し、ニュース記事の改変をしないことを条件に、記事全文を
+自由に転載・引用が可能です。
+
+このディレクトリの記事ファイル内容の提供元：
+エスマックス
+http://news.livedoor.com/category/vender/smax/
+
+sports-watch/LICENSE.txt
+==========
+このディレクトリにあるすべての記事ファイルには、クリエイティブ・コモンズライセンス
+「表示 - 改変禁止」（http://creativecommons.org/licenses/by-nd/2.1/jp/）が適用されます。
+原著作者のクレジットを表示し、ニュース記事の改変をしないことを条件に、記事全文を
+自由に転載・引用が可能です。
+
+このディレクトリの記事ファイル内容の提供元：
+Sports Watch
+http://news.livedoor.com/category/vender/208/
+
+topic-news/LICENSE.txt
+==========
+このディレクトリにあるすべての記事ファイルには、クリエイティブ・コモンズライセンス
+「表示 - 改変禁止」（http://creativecommons.org/licenses/by-nd/2.1/jp/）が適用されます。
+原著作者のクレジットを表示し、ニュース記事の改変をしないことを条件に、記事全文を
+自由に転載・引用が可能です。
+
+このディレクトリの記事ファイル内容の提供元：
+トピックニュース
+http://news.livedoor.com/category/vender/news/
+
