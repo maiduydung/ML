@@ -1,0 +1,29 @@
+﻿#Long_jump: 走り幅跳び
+#Shot_put: 砲丸投げ
+#High_jump: 走り高跳び
+#110mH: 110m障害走
+#Discus_throw: 円盤投げ
+#Pole_vault: 棒高跳び
+#Javelin_throw: やり投げ
+#
+Rank,Name,Nationality,Result,100m,Long_jump,Shot_put,High_jump,400m,110mH,Discus_throw,Pole_vault,Javelin_throw,1500m
+1,Ashton Eaton,United States,8893,985,1045,773,813,1005,1000,777,972,734,789
+2,Kévin Mayer,France,8834,903,960,836,840,896,972,804,1035,814,774
+3,Damian Warner,Canada,8666,1023,977,708,840,941,1029,765,819,786,778
+4,Kai Kazmirek,Germany,8580,910,982,741,896,971,896,731,910,807,736
+5,Larbi Bourrada,Algeria,8521,917,940,715,896,910,955,713,790,836,849
+6,Leonel Suárez,Cuba,8460,814,847,745,868,902,913,810,880,925,756
+7,Zach Ziemek,United States,8392,926,932,694,896,822,878,858,972,752,662
+8,Thomas Van der Plaetsen, Belgium,8332,808,975,657,953,832,848,738,1035,769,717
+9,Kurt Felix,Grenada,8323,876,915,776,868,855,875,769,760,888,741
+10,Luiz Alberto de Araújo,Brazil,8315,912,930,806,731,902,953,769,880,697,735
+11,Jeremy Taiwo,United States,8300,858,922,785,982,872,902,663,910,608,798
+12,Adam Helcelet,Czech Republic,8291,847,898,796,840,837,927,749,819,862,716
+13,Bastien Auzeil,France,8064,823,830,815,785,845,871,710,941,767,677
+14,Cedric Dubler,Australia,8024,892,927,575,925,900,936,642,880,616,731
+15,Arthur Abele,Germany,8013,890,807,792,785,860,959,760,760,800,600
+16,Lindon Victor,Grenada,7998,899,840,777,785,824,762,938,731,791,651
+17,Pau Tonnesen,Spain,7982,791,893,709,813,778,851,794,972,740,641
+18,Yordanis García,Cuba,7961,903,774,764,813,876,942,671,760,809,649
+19,Dominik Distelberger,Austria,7954,897,893,692,705,880,925,626,849,765,722
+20,Keisuke Ushiro,Japan,7952,795,774,737,785,795,839,868,880,838,641
