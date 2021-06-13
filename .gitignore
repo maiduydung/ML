@@ -9,3 +9,4 @@ Linear Regression/.ipynb_checkpoints/MecariPriceSuggestion-checkpoint.ipynb
 datasets/mecari_price_suggestion/train.tsv
 datasets/mecari_price_suggestion/test_stg2.tsv.zip
 datasets/mecari_price_suggestion/test.tsv
+NLP/glove.6B.100d.txt
