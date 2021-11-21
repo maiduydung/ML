@@ -1,4 +1,4 @@
-Date,Infected_obs,Predicted_gru_1,Predicted_gru_3,Predicted_gru_2,Pred_gru_mean,Predicted_lstm_1,Predicted_lstm_2,Predicted_lstm_3,Pred_lstm_mean
+Date,Observed_cases,Pred_GRU_1,Pred_GRU_2,Pred_GRU_3,Pred_mean_GRU,Pred_LSTM_1,Pred_LSTM_2,Pred_LSTM_3,Pred_mean_LSTM
 2020-01-31,0,0,0,0,0,0,1,1,1
 2020-02-01,0,5,5,2,4,3,2,3,3
 2020-02-02,0,0,0,0,0,0,1,0,0
