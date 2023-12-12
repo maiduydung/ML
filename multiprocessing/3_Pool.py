@@ -1,7 +1,7 @@
 from multiprocessing import Pool
 import time
 
-work = (["A", 1], ["B", 1], ["C", 3], ["D", 3])
+work = (["A", 4], ["B", 1], ["C", 3], ["D", 3])
 
 def work_log(work_data):
     print('Process {0} is waiting {1} seconds'.format(work_data[0], work_data[1]))
